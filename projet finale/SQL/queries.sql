@@ -1,14 +1,12 @@
 USE GadgetWorldDB;
 
--- 1. List all products supplied by 'Supplier X' with their current price.
--- Replace 'Supplier X' with an actual supplier name, example 'GigaSupply'
+-- 1. List all products supplied by 'AlphaElectro' with their current price.
 SELECT p.product_id, p.product_name, p.price
 FROM Products p
 JOIN Suppliers s ON p.supplier_id = s.supplier_id
 WHERE s.supplier_name = 'AlphaElectro';
 
 -- 2. Find a customer's complete order history, including order date and status.
--- Replace customer id or use email to find id
 SELECT o.order_id, o.order_date, o.status, oi.order_item_id, oi.product_id, oi.quantity, oi.unit_price
 FROM Orders o
 JOIN Order_Items oi ON o.order_id = oi.order_id
