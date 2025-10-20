@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>PokeFetch+ - Async Demo</title>
+  <link rel="stylesheet" href="style.css">
+ 
+</head>
+<body>
+  <div class="container">
+    <header>
+      <h1>PokeFetch+</h1>
+    </header>
+
+    <div class="search-section">
+      <div class="search-bar">
+        <input type="text" id="q" placeholder="404" value="404">
+        <button id="searchBtn">Search</button>
+        <button id="surpriseBtn">Surprise me</button>
+        <button id="cancelBtn">Cancel</button>
+      </div>
+      <div id="status" class="show success">Ready to fetch! Check browser console for async pipeline logs.</div>
+    </div>
+
+    <div class="main-content">
+      <div class="card-container">
+        <div class="fetched-header" id="fetchedHeader" style="display: none;">Fetched #<span id="fetchedId"></span> <span id="fetchedName"></span></div>
+        
+        <div id="card">
+          <div class="pokemon-card" id="pokemonCard"></div>
+        </div>
+
+        <div class="empty-state" id="emptyState">
+          <p>👆 Enter a Pokémon name or ID above and hit Search</p>
+          <p class="console-note">Open DevTools Console (F12) to see async patterns in action</p>
+        </div>
+      </div>
+
+      <div class="sidebar">
+        <div class="panel">
+          <div class="panel-title">Last 10 searches</div>
+          <ul class="history-list" id="history"></ul>
+        </div>
+
+        <div class="panel">
+          <div class="panel-title">Telemetry</div>
+          <div class="telemetry-grid">
+            <div class="metric">
+              <div class="metric-label">HTTP Status</div>
+              <div class="metric-value" id="httpStatus">—</div>
+            </div>
+            <div class="metric">
+              <div class="metric-label">Total Time (ms)</div>
+              <div class="metric-value" id="totalTime">—</div>
+            </div>
+            <div class="metric">
+              <div class="metric-label">From Cache</div>
+              <div class="metric-value" id="fromCache">—</div>
+            </div>
+            <div class="metric">
+              <div class="metric-label">Retries</div>
+              <div class="metric-value" id="retries">0</div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <script src="script.js"></script>
+</body>
+</html>
