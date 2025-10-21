@@ -1,0 +1,16 @@
+1- Que signifient :
+__filename : le chemin absolu du fichier en cours d'exécution
+
+__dirname : le chemin du dossier où se trouve le fichier
+
+module : un objet représentant le module courant, contenant ses métadonnées et ce qu’il exporte
+
+exports : un raccourci vers module.exports, utilisé pour ajouter des éléments à exporter
+
+2- Parce que exports est seulement une référence vers module.exports.
+Si on fait exports = fonction(), on casse cette référence, donc Node exporte toujours l’ancien module.exports vide.
+
+3- Quelle relation existe entre exports et module.exports ?
+
+Au départ, exports pointe vers module.exports, donc modifier exports.nom = ... revient à ajouter à module.exports
+mais si on réassigne exports, ils deviennent deux objets différents.

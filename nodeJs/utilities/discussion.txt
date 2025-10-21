@@ -1,0 +1,7 @@
+1- Quelle différence entre module.exports = fonction et module.exports = { … } ?
+module.exports = fonction exporte une seule fonction principale
+tandis que module.exports = { function1, function2 } permet d’exporter plusieurs fonctions ou éléments depuis le même module
+
+Dans quels cas préférez-vous l’un ou l’autre ?
+on utilise module.exports = fonction() si le module est simple et centré sur une tâche
+si le module utilitaire avec plusieurs outils(fonctions) on utilise  module.exports = { fct1, fct2,...... }

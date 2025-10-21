@@ -1,0 +1,9 @@
+1- Que se passe-t-il si plusieurs fichiers définissent les mêmes noms ?
+Si les memes noms était defini dans le même fichier, rsult un conflit
+
+
+2- Pourquoi est-ce un problème dans un projet réel ?
+Dans un projet réel, ou il y a des centaines de fichier, c'est dificile d'eviter les conflit avec un seul fichier
+
+3- Comment le système de modules de Node résout-il ce problème ?
+Node utilise un système de modules isolés, où chaque fichier possède son propre espace de noms (scope).
