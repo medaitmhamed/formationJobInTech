@@ -1,0 +1,135 @@
+@baseUrl = http://localhost:3000
+@token =secret123
+
+GET {{baseUrl}}/health
+
+### njibo gaa3 tomobilat li kaynin
+GET {{baseUrl}}/api/cars
+
+### nfiltriw 3la lcars 
+GET {{baseUrl}}/api/cars?available=true&category=suv
+
+### njibo cars 3la 7sab prix dyalhom
+GET {{baseUrl}}/api/cars?minPrice=30&maxPrice=70
+
+### nfilitri b query (plate ola model)
+GET {{baseUrl}}/api/cars?q=VZ-3525
+
+### plusieur filtres
+GET {{baseUrl}}/api/cars?category=suv&available=true&minPrice=30&maxPrice=100
+
+### njio kola car b id
+GET {{baseUrl}}/api/cars/1762525305596
+
+### ila mal9ahach
+GET {{baseUrl}}/api/cars/999999
+
+
+### ajouter bla auth
+POST {{baseUrl}}/api/cars
+Content-Type: application/json
+
+{
+  "brand": "Tesla",
+  "model": "Model 3",
+  "category": "sedan",
+  "plate": "TESLA-001",
+  "pricePerDay": 95.0
+}
+
+### ajout m3a auth
+POST {{baseUrl}}/api/cars
+Content-Type: application/json
+Authorization: Bearer {{token}}
+
+{
+  "brand": "Tesla",
+  "model": "Model 3",
+  "category": "sedan",
+  "plate": "TESLA-003",
+  "pricePerDay": 95.0
+}
+
+### nzido car bcategory 4alta
+POST {{baseUrl}}/api/cars
+Content-Type: application/json
+Authorization: Bearer {{token}}
+
+{
+  "brand": "Ferrari",
+  "model": "F8",
+  "category": "sports",
+  "plate": "FAST-999",
+  "pricePerDay": 500.0
+}
+
+### les attribue required na9sin
+POST {{baseUrl}}/api/cars
+Content-Type: application/json
+Authorization: Bearer {{token}}
+
+{
+  "brand": "Mercedes",
+  "model": "C-Class"
+}
+
+### nzido  car btaman negative
+POST {{baseUrl}}/api/cars
+Content-Type: application/json
+Authorization: Bearer {{token}}
+
+{
+  "brand": "Fiat",
+  "model": "Panda",
+  "category": "eco",
+  "plate": "CHEAP-001",
+  "pricePerDay": -10
+}
+
+
+
+### update car
+PUT {{baseUrl}}/api/cars/1762525305596
+Content-Type: application/json
+Authorization: Bearer {{token}}
+
+{
+  "pricePerDay": 70.0,
+  "available": false
+}
+
+### nms7o bla auth
+DELETE {{baseUrl}}/api/cars/1762525305596
+
+### nms7o b auth
+DELETE {{baseUrl}}/api/cars/1762525305596
+Authorization: Bearer {{token}}
+
+
+
+
+
+### njibo ga3 rentals rentals
+GET {{baseUrl}}/api/rentals
+
+GET {{baseUrl}}/api/rentals?status=active
+
+
+GET {{baseUrl}}/api/rentals?from=2025-11-01&to=2025-11-30
+
+GET {{baseUrl}}/api/rentals/1
+
+
+### create 
+POST {{baseUrl}}/api/rentals
+Content-Type: application/json
+
+{
+  "carId": "1",
+  "customer": {
+    "name": "Alice Johnson",
+    "email": "alice@example.com"
+  },
+  "from": "2025-11-10",
+  "to": "2025-11-15"
+}

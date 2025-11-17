@@ -1,0 +1,702 @@
+[
+  {
+    "id": 1,
+    "name": "Resource 1",
+    "type": "Document",
+    "category": "Education",
+    "available": true
+  },
+  {
+    "id": 2,
+    "name": "Resource 2",
+    "type": "Video",
+    "category": "Health",
+    "available": false
+  },
+  {
+    "id": 3,
+    "name": "Resource 3",
+    "type": "Image",
+    "category": "Technology",
+    "available": true
+  },
+  {
+    "id": 4,
+    "name": "Resource 4",
+    "type": "PDF",
+    "category": "Business",
+    "available": true
+  },
+  {
+    "id": 5,
+    "name": "Resource 5",
+    "type": "Audio",
+    "category": "Education",
+    "available": false
+  },
+  {
+    "id": 6,
+    "name": "Resource 6",
+    "type": "Document",
+    "category": "Health",
+    "available": true
+  },
+  {
+    "id": 7,
+    "name": "Resource 7",
+    "type": "Video",
+    "category": "Technology",
+    "available": true
+  },
+  {
+    "id": 8,
+    "name": "Resource 8",
+    "type": "Image",
+    "category": "Business",
+    "available": false
+  },
+  {
+    "id": 9,
+    "name": "Resource 9",
+    "type": "PDF",
+    "category": "Education",
+    "available": true
+  },
+  {
+    "id": 10,
+    "name": "Resource 10",
+    "type": "Audio",
+    "category": "Health",
+    "available": false
+  },
+  {
+    "id": 11,
+    "name": "Resource 11",
+    "type": "Document",
+    "category": "Technology",
+    "available": true
+  },
+  {
+    "id": 12,
+    "name": "Resource 12",
+    "type": "Video",
+    "category": "Business",
+    "available": true
+  },
+  {
+    "id": 13,
+    "name": "Resource 13",
+    "type": "Image",
+    "category": "Education",
+    "available": false
+  },
+  {
+    "id": 14,
+    "name": "Resource 14",
+    "type": "PDF",
+    "category": "Health",
+    "available": true
+  },
+  {
+    "id": 15,
+    "name": "Resource 15",
+    "type": "Audio",
+    "category": "Technology",
+    "available": true
+  },
+  {
+    "id": 16,
+    "name": "Resource 16",
+    "type": "Document",
+    "category": "Business",
+    "available": false
+  },
+  {
+    "id": 17,
+    "name": "Resource 17",
+    "type": "Video",
+    "category": "Education",
+    "available": true
+  },
+  {
+    "id": 18,
+    "name": "Resource 18",
+    "type": "Image",
+    "category": "Health",
+    "available": true
+  },
+  {
+    "id": 19,
+    "name": "Resource 19",
+    "type": "PDF",
+    "category": "Technology",
+    "available": false
+  },
+  {
+    "id": 20,
+    "name": "Resource 20",
+    "type": "Audio",
+    "category": "Business",
+    "available": true
+  },
+  {
+    "id": 21,
+    "name": "Resource 21",
+    "type": "Document",
+    "category": "Education",
+    "available": true
+  },
+  {
+    "id": 22,
+    "name": "Resource 22",
+    "type": "Video",
+    "category": "Health",
+    "available": false
+  },
+  {
+    "id": 23,
+    "name": "Resource 23",
+    "type": "Image",
+    "category": "Technology",
+    "available": true
+  },
+  {
+    "id": 24,
+    "name": "Resource 24",
+    "type": "PDF",
+    "category": "Business",
+    "available": true
+  },
+  {
+    "id": 25,
+    "name": "Resource 25",
+    "type": "Audio",
+    "category": "Education",
+    "available": false
+  },
+  {
+    "id": 26,
+    "name": "Resource 26",
+    "type": "Document",
+    "category": "Health",
+    "available": true
+  },
+  {
+    "id": 27,
+    "name": "Resource 27",
+    "type": "Video",
+    "category": "Technology",
+    "available": true
+  },
+  {
+    "id": 28,
+    "name": "Resource 28",
+    "type": "Image",
+    "category": "Business",
+    "available": false
+  },
+  {
+    "id": 29,
+    "name": "Resource 29",
+    "type": "PDF",
+    "category": "Education",
+    "available": true
+  },
+  {
+    "id": 30,
+    "name": "Resource 30",
+    "type": "Audio",
+    "category": "Health",
+    "available": true
+  },
+  {
+    "id": 31,
+    "name": "Resource 31",
+    "type": "Document",
+    "category": "Technology",
+    "available": false
+  },
+  {
+    "id": 32,
+    "name": "Resource 32",
+    "type": "Video",
+    "category": "Business",
+    "available": true
+  },
+  {
+    "id": 33,
+    "name": "Resource 33",
+    "type": "Image",
+    "category": "Education",
+    "available": true
+  },
+  {
+    "id": 34,
+    "name": "Resource 34",
+    "type": "PDF",
+    "category": "Health",
+    "available": false
+  },
+  {
+    "id": 35,
+    "name": "Resource 35",
+    "type": "Audio",
+    "category": "Technology",
+    "available": true
+  },
+  {
+    "id": 36,
+    "name": "Resource 36",
+    "type": "Document",
+    "category": "Business",
+    "available": true
+  },
+  {
+    "id": 37,
+    "name": "Resource 37",
+    "type": "Video",
+    "category": "Education",
+    "available": false
+  },
+  {
+    "id": 38,
+    "name": "Resource 38",
+    "type": "Image",
+    "category": "Health",
+    "available": true
+  },
+  {
+    "id": 39,
+    "name": "Resource 39",
+    "type": "PDF",
+    "category": "Technology",
+    "available": true
+  },
+  {
+    "id": 40,
+    "name": "Resource 40",
+    "type": "Audio",
+    "category": "Business",
+    "available": false
+  },
+  {
+    "id": 41,
+    "name": "Resource 41",
+    "type": "Document",
+    "category": "Education",
+    "available": true
+  },
+  {
+    "id": 42,
+    "name": "Resource 42",
+    "type": "Video",
+    "category": "Health",
+    "available": true
+  },
+  {
+    "id": 43,
+    "name": "Resource 43",
+    "type": "Image",
+    "category": "Technology",
+    "available": false
+  },
+  {
+    "id": 44,
+    "name": "Resource 44",
+    "type": "PDF",
+    "category": "Business",
+    "available": true
+  },
+  {
+    "id": 45,
+    "name": "Resource 45",
+    "type": "Audio",
+    "category": "Education",
+    "available": true
+  },
+  {
+    "id": 46,
+    "name": "Resource 46",
+    "type": "Document",
+    "category": "Health",
+    "available": false
+  },
+  {
+    "id": 47,
+    "name": "Resource 47",
+    "type": "Video",
+    "category": "Technology",
+    "available": true
+  },
+  {
+    "id": 48,
+    "name": "Resource 48",
+    "type": "Image",
+    "category": "Business",
+    "available": true
+  },
+  {
+    "id": 49,
+    "name": "Resource 49",
+    "type": "PDF",
+    "category": "Education",
+    "available": false
+  },
+  {
+    "id": 50,
+    "name": "Resource 50",
+    "type": "Audio",
+    "category": "Health",
+    "available": true
+  },
+  {
+    "id": 51,
+    "name": "Resource 51",
+    "type": "Document",
+    "category": "Technology",
+    "available": true
+  },
+  {
+    "id": 52,
+    "name": "Resource 52",
+    "type": "Video",
+    "category": "Business",
+    "available": false
+  },
+  {
+    "id": 53,
+    "name": "Resource 53",
+    "type": "Image",
+    "category": "Education",
+    "available": true
+  },
+  {
+    "id": 54,
+    "name": "Resource 54",
+    "type": "PDF",
+    "category": "Health",
+    "available": true
+  },
+  {
+    "id": 55,
+    "name": "Resource 55",
+    "type": "Audio",
+    "category": "Technology",
+    "available": false
+  },
+  {
+    "id": 56,
+    "name": "Resource 56",
+    "type": "Document",
+    "category": "Business",
+    "available": true
+  },
+  {
+    "id": 57,
+    "name": "Resource 57",
+    "type": "Video",
+    "category": "Education",
+    "available": true
+  },
+  {
+    "id": 58,
+    "name": "Resource 58",
+    "type": "Image",
+    "category": "Health",
+    "available": false
+  },
+  {
+    "id": 59,
+    "name": "Resource 59",
+    "type": "PDF",
+    "category": "Technology",
+    "available": true
+  },
+  {
+    "id": 60,
+    "name": "Resource 60",
+    "type": "Audio",
+    "category": "Business",
+    "available": true
+  },
+  {
+    "id": 61,
+    "name": "Resource 61",
+    "type": "Document",
+    "category": "Education",
+    "available": false
+  },
+  {
+    "id": 62,
+    "name": "Resource 62",
+    "type": "Video",
+    "category": "Health",
+    "available": true
+  },
+  {
+    "id": 63,
+    "name": "Resource 63",
+    "type": "Image",
+    "category": "Technology",
+    "available": true
+  },
+  {
+    "id": 64,
+    "name": "Resource 64",
+    "type": "PDF",
+    "category": "Business",
+    "available": false
+  },
+  {
+    "id": 65,
+    "name": "Resource 65",
+    "type": "Audio",
+    "category": "Education",
+    "available": true
+  },
+  {
+    "id": 66,
+    "name": "Resource 66",
+    "type": "Document",
+    "category": "Health",
+    "available": true
+  },
+  {
+    "id": 67,
+    "name": "Resource 67",
+    "type": "Video",
+    "category": "Technology",
+    "available": false
+  },
+  {
+    "id": 68,
+    "name": "Resource 68",
+    "type": "Image",
+    "category": "Business",
+    "available": true
+  },
+  {
+    "id": 69,
+    "name": "Resource 69",
+    "type": "PDF",
+    "category": "Education",
+    "available": true
+  },
+  {
+    "id": 70,
+    "name": "Resource 70",
+    "type": "Audio",
+    "category": "Health",
+    "available": false
+  },
+  {
+    "id": 71,
+    "name": "Resource 71",
+    "type": "Document",
+    "category": "Technology",
+    "available": true
+  },
+  {
+    "id": 72,
+    "name": "Resource 72",
+    "type": "Video",
+    "category": "Business",
+    "available": true
+  },
+  {
+    "id": 73,
+    "name": "Resource 73",
+    "type": "Image",
+    "category": "Education",
+    "available": false
+  },
+  {
+    "id": 74,
+    "name": "Resource 74",
+    "type": "PDF",
+    "category": "Health",
+    "available": true
+  },
+  {
+    "id": 75,
+    "name": "Resource 75",
+    "type": "Audio",
+    "category": "Technology",
+    "available": true
+  },
+  {
+    "id": 76,
+    "name": "Resource 76",
+    "type": "Document",
+    "category": "Business",
+    "available": false
+  },
+  {
+    "id": 77,
+    "name": "Resource 77",
+    "type": "Video",
+    "category": "Education",
+    "available": true
+  },
+  {
+    "id": 78,
+    "name": "Resource 78",
+    "type": "Image",
+    "category": "Health",
+    "available": true
+  },
+  {
+    "id": 79,
+    "name": "Resource 79",
+    "type": "PDF",
+    "category": "Technology",
+    "available": false
+  },
+  {
+    "id": 80,
+    "name": "Resource 80",
+    "type": "Audio",
+    "category": "Business",
+    "available": true
+  },
+  {
+    "id": 81,
+    "name": "Resource 81",
+    "type": "Document",
+    "category": "Education",
+    "available": true
+  },
+  {
+    "id": 82,
+    "name": "Resource 82",
+    "type": "Video",
+    "category": "Health",
+    "available": false
+  },
+  {
+    "id": 83,
+    "name": "Resource 83",
+    "type": "Image",
+    "category": "Technology",
+    "available": true
+  },
+  {
+    "id": 84,
+    "name": "Resource 84",
+    "type": "PDF",
+    "category": "Business",
+    "available": true
+  },
+  {
+    "id": 85,
+    "name": "Resource 85",
+    "type": "Audio",
+    "category": "Education",
+    "available": false
+  },
+  {
+    "id": 86,
+    "name": "Resource 86",
+    "type": "Document",
+    "category": "Health",
+    "available": true
+  },
+  {
+    "id": 87,
+    "name": "Resource 87",
+    "type": "Video",
+    "category": "Technology",
+    "available": true
+  },
+  {
+    "id": 88,
+    "name": "Resource 88",
+    "type": "Image",
+    "category": "Business",
+    "available": false
+  },
+  {
+    "id": 89,
+    "name": "Resource 89",
+    "type": "PDF",
+    "category": "Education",
+    "available": true
+  },
+  {
+    "id": 90,
+    "name": "Resource 90",
+    "type": "Audio",
+    "category": "Health",
+    "available": true
+  },
+  {
+    "id": 91,
+    "name": "Resource 91",
+    "type": "Document",
+    "category": "Technology",
+    "available": false
+  },
+  {
+    "id": 92,
+    "name": "Resource 92",
+    "type": "Video",
+    "category": "Business",
+    "available": true
+  },
+  {
+    "id": 93,
+    "name": "Resource 93",
+    "type": "Image",
+    "category": "Education",
+    "available": true
+  },
+  {
+    "id": 94,
+    "name": "Resource 94",
+    "type": "PDF",
+    "category": "Health",
+    "available": false
+  },
+  {
+    "id": 95,
+    "name": "Resource 95",
+    "type": "Audio",
+    "category": "Technology",
+    "available": true
+  },
+  {
+    "id": 96,
+    "name": "Resource 96",
+    "type": "Document",
+    "category": "Business",
+    "available": true
+  },
+  {
+    "id": 97,
+    "name": "Resource 97",
+    "type": "Video",
+    "category": "Education",
+    "available": false
+  },
+  {
+    "id": 98,
+    "name": "Resource 98",
+    "type": "Image",
+    "category": "Health",
+    "available": true
+  },
+  {
+    "id": 99,
+    "name": "Resource 99",
+    "type": "PDF",
+    "category": "Technology",
+    "available": true
+  },
+  {
+    "id": 100,
+    "name": "Resource 100",
+    "type": "Audio",
+    "category": "Business",
+    "available": false
+  }
+]

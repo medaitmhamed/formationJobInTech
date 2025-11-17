@@ -1,0 +1,12 @@
+GET http://localhost:3000/api/products
+
+###
+
+GET http://localhost:3000/api/products/123
+
+### 
+GET  http://localhost:3000/api/crash
+
+
+###
+GET  http://localhost:3000/api/products

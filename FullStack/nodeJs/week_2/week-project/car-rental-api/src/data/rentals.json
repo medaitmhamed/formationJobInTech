@@ -1,0 +1,322 @@
+[
+  {
+    "id": 1,
+    "carId": 17,
+    "customer": {
+      "name": "Ronald Price",
+      "email": "alan59@byrd-garza.net"
+    },
+    "from": "2025-10-30",
+    "to": "2025-10-31",
+    "days": 1,
+    "dailyRate": 105.07,
+    "total": 105.07,
+    "status": "returned",
+    "createdAt": "2025-11-04T09:25:47.800331",
+    "updatedAt": "2025-11-04T09:25:47.800337"
+  },
+  {
+    "id": 2,
+    "carId": 11,
+    "customer": {
+      "name": "Alan Woodward",
+      "email": "amber22@hotmail.com"
+    },
+    "from": "2025-10-10",
+    "to": "2025-10-13",
+    "days": 3,
+    "dailyRate": 65.9,
+    "total": 197.7,
+    "status": "returned",
+    "createdAt": "2025-11-04T09:25:47.800661",
+    "updatedAt": "2025-11-04T09:25:47.800665"
+  },
+  {
+    "id": 3,
+    "carId": 21,
+    "customer": {
+      "name": "Lindsey Gray",
+      "email": "justin03@hotmail.com"
+    },
+    "from": "2025-10-10",
+    "to": "2025-10-12",
+    "days": 2,
+    "dailyRate": 58.74,
+    "total": 117.48,
+    "status": "returned",
+    "createdAt": "2025-11-04T09:25:47.800989",
+    "updatedAt": "2025-11-04T09:25:47.800994"
+  },
+  {
+    "id": 4,
+    "carId": 34,
+    "customer": {
+      "name": "Debbie Ortiz",
+      "email": "garysilva@yahoo.com"
+    },
+    "from": "2025-10-28",
+    "to": "2025-10-30",
+    "days": 2,
+    "dailyRate": 119.11,
+    "total": 238.22,
+    "status": "returned",
+    "createdAt": "2025-11-04T09:25:47.801385",
+    "updatedAt": "2025-11-04T09:25:47.801388"
+  },
+  {
+    "id": 5,
+    "carId": 19,
+    "customer": {
+      "name": "Jonathan Parks",
+      "email": "katherinemcdonald@pittman-dean.com"
+    },
+    "from": "2025-10-06",
+    "to": "2025-10-09",
+    "days": 3,
+    "dailyRate": 112.85,
+    "total": 338.55,
+    "status": "returned",
+    "createdAt": "2025-11-04T09:25:47.802090",
+    "updatedAt": "2025-11-04T09:25:47.802095"
+  },
+  {
+    "id": 6,
+    "carId": 29,
+    "customer": {
+      "name": "Jeffery Taylor",
+      "email": "thomas47@moore-rodriguez.com"
+    },
+    "from": "2025-10-23",
+    "to": "2025-11-02",
+    "days": 10,
+    "dailyRate": 84.1,
+    "total": 841.0,
+    "status": "active",
+    "createdAt": "2025-11-04T09:25:47.802693",
+    "updatedAt": "2025-11-04T09:25:47.802698"
+  },
+  {
+    "id": 7,
+    "carId": 17,
+    "customer": {
+      "name": "Greg Ramirez",
+      "email": "charles01@hotmail.com"
+    },
+    "from": "2025-10-12",
+    "to": "2025-10-20",
+    "days": 8,
+    "dailyRate": 105.07,
+    "total": 840.56,
+    "status": "cancelled",
+    "createdAt": "2025-11-04T09:25:47.803053",
+    "updatedAt": "2025-11-04T09:25:47.803057"
+  },
+  {
+    "id": 8,
+    "carId": 10,
+    "customer": {
+      "name": "Justin Smith",
+      "email": "bartonjoshua@carr.com"
+    },
+    "from": "2025-10-25",
+    "to": "2025-10-29",
+    "days": 4,
+    "dailyRate": 99.86,
+    "total": 399.44,
+    "status": "cancelled",
+    "createdAt": "2025-11-04T09:25:47.803669",
+    "updatedAt": "2025-11-04T09:25:47.803675"
+  },
+  {
+    "id": 9,
+    "carId": 69,
+    "customer": {
+      "name": "Michael Allen",
+      "email": "martinlaura@yahoo.com"
+    },
+    "from": "2025-10-06",
+    "to": "2025-10-08",
+    "days": 2,
+    "dailyRate": 73.02,
+    "total": 146.04,
+    "status": "returned",
+    "createdAt": "2025-11-04T09:25:47.804211",
+    "updatedAt": "2025-11-04T09:25:47.804216"
+  },
+  {
+    "id": 10,
+    "carId": 88,
+    "customer": {
+      "name": "Rachel Hart",
+      "email": "smitchell@hotmail.com"
+    },
+    "from": "2025-10-07",
+    "to": "2025-10-14",
+    "days": 7,
+    "dailyRate": 36.87,
+    "total": 258.09,
+    "status": "active",
+    "createdAt": "2025-11-04T09:25:47.804545",
+    "updatedAt": "2025-11-04T09:25:47.804548"
+  },
+  {
+    "id": 11,
+    "carId": 57,
+    "customer": {
+      "name": "Jennifer Dominguez",
+      "email": "kaylagreene@yahoo.com"
+    },
+    "from": "2025-10-06",
+    "to": "2025-10-16",
+    "days": 10,
+    "dailyRate": 45.34,
+    "total": 453.4,
+    "status": "active",
+    "createdAt": "2025-11-04T09:25:47.804923",
+    "updatedAt": "2025-11-04T09:25:47.804925"
+  },
+  {
+    "id": 12,
+    "carId": 40,
+    "customer": {
+      "name": "Jennifer Carpenter",
+      "email": "marydouglas@shepherd.com"
+    },
+    "from": "2025-10-25",
+    "to": "2025-11-01",
+    "days": 7,
+    "dailyRate": 56.1,
+    "total": 392.7,
+    "status": "cancelled",
+    "createdAt": "2025-11-04T09:25:47.805441",
+    "updatedAt": "2025-11-04T09:25:47.805445"
+  },
+  {
+    "id": 13,
+    "carId": 16,
+    "customer": {
+      "name": "Jason Morrison",
+      "email": "jonesronnie@martinez-mccarthy.net"
+    },
+    "from": "2025-10-27",
+    "to": "2025-11-01",
+    "days": 5,
+    "dailyRate": 49.92,
+    "total": 249.6,
+    "status": "returned",
+    "createdAt": "2025-11-04T09:25:47.806054",
+    "updatedAt": "2025-11-04T09:25:47.806059"
+  },
+  {
+    "id": 14,
+    "carId": 20,
+    "customer": {
+      "name": "Devin Wheeler",
+      "email": "ortizrobert@thomas-mccoy.com"
+    },
+    "from": "2025-10-06",
+    "to": "2025-10-14",
+    "days": 8,
+    "dailyRate": 71.59,
+    "total": 572.72,
+    "status": "active",
+    "createdAt": "2025-11-04T09:25:47.806676",
+    "updatedAt": "2025-11-04T09:25:47.806680"
+  },
+  {
+    "id": 15,
+    "carId": 55,
+    "customer": {
+      "name": "Matthew Gross",
+      "email": "sparksdouglas@bush.info"
+    },
+    "from": "2025-10-21",
+    "to": "2025-10-28",
+    "days": 7,
+    "dailyRate": 82.15,
+    "total": 575.05,
+    "status": "returned",
+    "createdAt": "2025-11-04T09:25:47.807400",
+    "updatedAt": "2025-11-04T09:25:47.807405"
+  },
+  {
+    "id": 16,
+    "carId": 13,
+    "customer": {
+      "name": "Julie Jones",
+      "email": "anthony96@harris.com"
+    },
+    "from": "2025-10-22",
+    "to": "2025-10-29",
+    "days": 7,
+    "dailyRate": 100.88,
+    "total": 706.16,
+    "status": "returned",
+    "createdAt": "2025-11-04T09:25:47.807970",
+    "updatedAt": "2025-11-04T09:25:47.807972"
+  },
+  {
+    "id": 17,
+    "carId": 83,
+    "customer": {
+      "name": "Susan Donaldson",
+      "email": "davidjames@hotmail.com"
+    },
+    "from": "2025-10-30",
+    "to": "2025-11-05",
+    "days": 6,
+    "dailyRate": 109.66,
+    "total": 657.96,
+    "status": "active",
+    "createdAt": "2025-11-04T09:25:47.808370",
+    "updatedAt": "2025-11-04T09:25:47.808374"
+  },
+  {
+    "id": 18,
+    "carId": 19,
+    "customer": {
+      "name": "Meagan Harper",
+      "email": "greyes@yahoo.com"
+    },
+    "from": "2025-10-27",
+    "to": "2025-10-30",
+    "days": 3,
+    "dailyRate": 112.85,
+    "total": 338.55,
+    "status": "cancelled",
+    "createdAt": "2025-11-04T09:25:47.808684",
+    "updatedAt": "2025-11-04T09:25:47.808687"
+  },
+  {
+    "id": 19,
+    "carId": 31,
+    "customer": {
+      "name": "Eric Rubio",
+      "email": "travis78@thompson.net"
+    },
+    "from": "2025-10-15",
+    "to": "2025-10-17",
+    "days": 2,
+    "dailyRate": 80.1,
+    "total": 160.2,
+    "status": "active",
+    "createdAt": "2025-11-04T09:25:47.809048",
+    "updatedAt": "2025-11-04T09:25:47.809050"
+  },
+  {
+    "id": 20,
+    "carId": 60,
+    "customer": {
+      "name": "Teresa Huff",
+      "email": "gilljoshua@gmail.com"
+    },
+    "from": "2025-10-10",
+    "to": "2025-10-16",
+    "days": 6,
+    "dailyRate": 78.49,
+    "total": 470.94,
+    "status": "returned",
+    "createdAt": "2025-11-04T09:25:47.809451",
+    "updatedAt": "2025-11-04T09:25:47.809454"
+  }
+]

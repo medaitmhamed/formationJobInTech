@@ -1,0 +1,6 @@
+1- Qu’apportes-tu en termes de clarté et de maintenabilité ?
+le projet est plus clair et facile à maintenir avec cette structeur
+chaque fichier a une fonction précise.
+
+2- Quels fichiers changeraient le plus souvent si l’API évolue ?
+les controlleurs et les routes sont les fichiers changeraient le plus souvant si l'API évolue

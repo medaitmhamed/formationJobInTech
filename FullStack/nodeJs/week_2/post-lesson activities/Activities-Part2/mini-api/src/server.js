@@ -1,0 +1,23 @@
+const express = require('express');
+require('dotenv').config();
+const logger = require('./middlewares/logger');
+const errorHandler = require('./middlewares/errorHandler');
+const apiRoutes = require('./routes/api');
+
+const DOMAIN = process.env.DOMAIN || 'localhost';
+const PORT = process.env.PORT || 3000;
+const app = express();
+
+
+// Middlewares
+app.use(express.json());
+app.use(logger);
+app.use(errorHandler);
+
+// Routes
+app.use('/api', apiRoutes);
+
+// ecouter sur le port 3000
+app.listen(PORT, () => {
+  console.log(`Server is running on http://${DOMAIN}:${PORT}`);
+});

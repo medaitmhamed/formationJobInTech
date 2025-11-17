@@ -1,0 +1,1004 @@
+{
+  "observations": [
+    {
+      "id": "obs_001",
+      "city": " blanca",
+      "country": "Morocco",
+      "timestamp": "2025-11-09T09:00:00Z",
+      "tempC": 20.3,
+      "humidity": 68,
+      "conditions": "clouds",
+      "wind": { "speed": 18.2, "direction": "NW" }
+    },
+    {
+      "id": "obs_002",
+      "city": "Rabat",
+      "country": "Morocco",
+      "timestamp": "2025-11-09T08:30:00Z",
+      "tempC": 19.1,
+      "humidity": 70,
+      "conditions": "clear",
+      "wind": { "speed": 12.0, "direction": "W" }
+    },
+    {
+      "id": "obs_003",
+      "city": "Marrakech",
+      "country": "Morocco",
+      "timestamp": "2025-11-08T15:00:00Z",
+      "tempC": 26.7,
+      "humidity": 32,
+      "conditions": "clear",
+      "wind": { "speed": 8.5, "direction": "SE" }
+    },
+    {
+      "id": "obs_004",
+      "city": "Fes",
+      "country": "Morocco",
+      "timestamp": "2025-11-07T11:00:00Z",
+      "tempC": 18.9,
+      "humidity": 54,
+      "conditions": "clouds",
+      "wind": { "speed": 10.3, "direction": "N" }
+    },
+    {
+      "id": "obs_005",
+      "city": "Tangier",
+      "country": "Morocco",
+      "timestamp": "2025-11-06T10:15:00Z",
+      "tempC": 17.4,
+      "humidity": 75,
+      "conditions": "mist",
+      "wind": { "speed": 14.6, "direction": "NW" }
+    },
+    {
+      "id": "obs_006",
+      "city": "Agadir",
+      "country": "Morocco",
+      "timestamp": "2025-11-05T13:30:00Z",
+      "tempC": 23.5,
+      "humidity": 58,
+      "conditions": "clear",
+      "wind": { "speed": 20.8, "direction": "W" }
+    },
+    {
+      "id": "obs_007",
+      "city": "Meknes",
+      "country": "Morocco",
+      "timestamp": "2025-11-04T09:45:00Z",
+      "tempC": 17.7,
+      "humidity": 49,
+      "conditions": "clouds",
+      "wind": { "speed": 9.1, "direction": "NE" }
+    },
+    {
+      "id": "obs_008",
+      "city": "Oujda",
+      "country": "Morocco",
+      "timestamp": "2025-11-03T07:20:00Z",
+      "tempC": 14.2,
+      "humidity": 44,
+      "conditions": "clear",
+      "wind": { "speed": 6.5, "direction": "S" }
+    },
+    {
+      "id": "obs_009",
+      "city": "Kenitra",
+      "country": "Morocco",
+      "timestamp": "2025-11-02T12:00:00Z",
+      "tempC": 18.6,
+      "humidity": 66,
+      "conditions": "clouds",
+      "wind": { "speed": 11.7, "direction": "W" }
+    },
+    {
+      "id": "obs_010",
+      "city": "Tetouan",
+      "country": "Morocco",
+      "timestamp": "2025-11-01T08:00:00Z",
+      "tempC": 16.5,
+      "humidity": 72,
+      "conditions": "clouds",
+      "wind": { "speed": 13.0, "direction": "NW" }
+    },
+    {
+      "id": "obs_011",
+      "city": "Essaouira",
+      "country": "Morocco",
+      "timestamp": "2025-11-09T07:30:00Z",
+      "tempC": 19.9,
+      "humidity": 65,
+      "conditions": "clouds",
+      "wind": { "speed": 22.1, "direction": "W" }
+    },
+    {
+      "id": "obs_012",
+      "city": "Safi",
+      "country": "Morocco",
+      "timestamp": "2025-11-08T14:00:00Z",
+      "tempC": 21.4,
+      "humidity": 60,
+      "conditions": "clear",
+      "wind": { "speed": 10.9, "direction": "SW" }
+    },
+    {
+      "id": "obs_013",
+      "city": "El Jadida",
+      "country": "Morocco",
+      "timestamp": "2025-11-07T10:10:00Z",
+      "tempC": 20.1,
+      "humidity": 67,
+      "conditions": "clouds",
+      "wind": { "speed": 15.0, "direction": "W" }
+    },
+    {
+      "id": "obs_014",
+      "city": "Nador",
+      "country": "Morocco",
+      "timestamp": "2025-11-06T09:00:00Z",
+      "tempC": 18.0,
+      "humidity": 61,
+      "conditions": "clouds",
+      "wind": { "speed": 12.8, "direction": "NE" }
+    },
+    {
+      "id": "obs_015",
+      "city": "Khenifra",
+      "country": "Morocco",
+      "timestamp": "2025-11-05T06:45:00Z",
+      "tempC": 11.6,
+      "humidity": 58,
+      "conditions": "clear",
+      "wind": { "speed": 5.2, "direction": "N" }
+    },
+    {
+      "id": "obs_016",
+      "city": "Khouribga",
+      "country": "Morocco",
+      "timestamp": "2025-11-04T16:00:00Z",
+      "tempC": 19.0,
+      "humidity": 40,
+      "conditions": "clear",
+      "wind": { "speed": 7.8, "direction": "E" }
+    },
+    {
+      "id": "obs_017",
+      "city": "Berkane",
+      "country": "Morocco",
+      "timestamp": "2025-11-03T11:30:00Z",
+      "tempC": 17.9,
+      "humidity": 55,
+      "conditions": "clouds",
+      "wind": { "speed": 9.9, "direction": "NE" }
+    },
+    {
+      "id": "obs_018",
+      "city": "Beni Mellal",
+      "country": "Morocco",
+      "timestamp": "2025-11-02T13:15:00Z",
+      "tempC": 22.2,
+      "humidity": 35,
+      "conditions": "clear",
+      "wind": { "speed": 6.7, "direction": "S" }
+    },
+    {
+      "id": "obs_019",
+      "city": "Settat",
+      "country": "Morocco",
+      "timestamp": "2025-11-01T09:05:00Z",
+      "tempC": 18.8,
+      "humidity": 42,
+      "conditions": "clear",
+      "wind": { "speed": 8.3, "direction": "W" }
+    },
+    {
+      "id": "obs_020",
+      "city": "Temara",
+      "country": "Morocco",
+      "timestamp": "2025-11-09T06:50:00Z",
+      "tempC": 19.6,
+      "humidity": 69,
+      "conditions": "clouds",
+      "wind": { "speed": 13.4, "direction": "NW" }
+    },
+    {
+      "id": "obs_021",
+      "city": "Mohammedia",
+      "country": "Morocco",
+      "timestamp": "2025-11-08T07:40:00Z",
+      "tempC": 20.7,
+      "humidity": 64,
+      "conditions": "clouds",
+      "wind": { "speed": 16.3, "direction": "W" }
+    },
+    {
+      "id": "obs_022",
+      "city": "Taza",
+      "country": "Morocco",
+      "timestamp": "2025-11-07T08:25:00Z",
+      "tempC": 15.3,
+      "humidity": 58,
+      "conditions": "clouds",
+      "wind": { "speed": 7.1, "direction": "NE" }
+    },
+    {
+      "id": "obs_023",
+      "city": "Ifrane",
+      "country": "Morocco",
+      "timestamp": "2025-11-06T05:30:00Z",
+      "tempC": 6.8,
+      "humidity": 84,
+      "conditions": "fog",
+      "wind": { "speed": 3.4, "direction": "N" }
+    },
+    {
+      "id": "obs_024",
+      "city": "Chefchaouen",
+      "country": "Morocco",
+      "timestamp": "2025-11-05T10:10:00Z",
+      "tempC": 16.2,
+      "humidity": 60,
+      "conditions": "clouds",
+      "wind": { "speed": 9.5, "direction": "NW" }
+    },
+    {
+      "id": "obs_025",
+      "city": "Zagora",
+      "country": "Morocco",
+      "timestamp": "2025-11-04T18:00:00Z",
+      "tempC": 28.4,
+      "humidity": 18,
+      "conditions": "clear",
+      "wind": { "speed": 11.0, "direction": "E" }
+    },
+    {
+      "id": "obs_026",
+      "city": "Errachidia",
+      "country": "Morocco",
+      "timestamp": "2025-11-03T17:15:00Z",
+      "tempC": 24.9,
+      "humidity": 22,
+      "conditions": "clear",
+      "wind": { "speed": 9.7, "direction": "SE" }
+    },
+    {
+      "id": "obs_027",
+      "city": "Ouarzazate",
+      "country": "Morocco",
+      "timestamp": "2025-11-02T16:40:00Z",
+      "tempC": 25.6,
+      "humidity": 20,
+      "conditions": "clear",
+      "wind": { "speed": 7.4, "direction": "S" }
+    },
+    {
+      "id": "obs_028",
+      "city": "Laayoune",
+      "country": "Morocco",
+      "timestamp": "2025-11-01T14:50:00Z",
+      "tempC": 27.1,
+      "humidity": 33,
+      "conditions": "clear",
+      "wind": { "speed": 19.6, "direction": "W" }
+    },
+    {
+      "id": "obs_029",
+      "city": "Dakhla",
+      "country": "Morocco",
+      "timestamp": "2025-11-09T12:20:00Z",
+      "tempC": 24.3,
+      "humidity": 49,
+      "conditions": "clear",
+      "wind": { "speed": 21.4, "direction": "NW" }
+    },
+    {
+      "id": "obs_030",
+      "city": "Guelmim",
+      "country": "Morocco",
+      "timestamp": "2025-11-08T13:05:00Z",
+      "tempC": 26.0,
+      "humidity": 28,
+      "conditions": "clear",
+      "wind": { "speed": 12.9, "direction": "S" }
+    },
+    {
+      "id": "obs_031",
+      "city": "Ksar El Kebir",
+      "country": "Morocco",
+      "timestamp": "2025-11-07T09:55:00Z",
+      "tempC": 17.2,
+      "humidity": 59,
+      "conditions": "clouds",
+      "wind": { "speed": 10.6, "direction": "NE" }
+    },
+    {
+      "id": "obs_032",
+      "city": "Sidi Kacem",
+      "country": "Morocco",
+      "timestamp": "2025-11-06T07:40:00Z",
+      "tempC": 18.4,
+      "humidity": 46,
+      "conditions": "clear",
+      "wind": { "speed": 6.8, "direction": "N" }
+    },
+    {
+      "id": "obs_033",
+      "city": "Sidi Ifni",
+      "country": "Morocco",
+      "timestamp": "2025-11-05T15:10:00Z",
+      "tempC": 22.6,
+      "humidity": 57,
+      "conditions": "clouds",
+      "wind": { "speed": 17.9, "direction": "W" }
+    },
+    {
+      "id": "obs_034",
+      "city": "Tiznit",
+      "country": "Morocco",
+      "timestamp": "2025-11-04T11:20:00Z",
+      "tempC": 24.1,
+      "humidity": 40,
+      "conditions": "clear",
+      "wind": { "speed": 9.3, "direction": "SW" }
+    },
+    {
+      "id": "obs_035",
+      "city": "Sefrou",
+      "country": "Morocco",
+      "timestamp": "2025-11-03T10:05:00Z",
+      "tempC": 16.8,
+      "humidity": 52,
+      "conditions": "clouds",
+      "wind": { "speed": 7.2, "direction": "E" }
+    },
+    {
+      "id": "obs_036",
+      "city": "Midelt",
+      "country": "Morocco",
+      "timestamp": "2025-11-02T06:20:00Z",
+      "tempC": 7.9,
+      "humidity": 61,
+      "conditions": "clear",
+      "wind": { "speed": 4.9, "direction": "N" }
+    },
+    {
+      "id": "obs_037",
+      "city": "Azilal",
+      "country": "Morocco",
+      "timestamp": "2025-11-01T17:30:00Z",
+      "tempC": 20.5,
+      "humidity": 38,
+      "conditions": "clear",
+      "wind": { "speed": 5.6, "direction": "SE" }
+    },
+    {
+      "id": "obs_038",
+      "city": "Taroudant",
+      "country": "Morocco",
+      "timestamp": "2025-11-09T16:45:00Z",
+      "tempC": 27.8,
+      "humidity": 29,
+      "conditions": "clear",
+      "wind": { "speed": 8.8, "direction": "S" }
+    },
+    {
+      "id": "obs_039",
+      "city": "Al Hoceima",
+      "country": "Morocco",
+      "timestamp": "2025-11-08T07:05:00Z",
+      "tempC": 18.7,
+      "humidity": 70,
+      "conditions": "clouds",
+      "wind": { "speed": 14.2, "direction": "NE" }
+    },
+    {
+      "id": "obs_040",
+      "city": "Aïn Harrouda",
+      "country": "Morocco",
+      "timestamp": "2025-11-07T09:00:00Z",
+      "tempC": 20.0,
+      "humidity": 63,
+      "conditions": "clouds",
+      "wind": { "speed": 12.1, "direction": "W" }
+    },
+    {
+      "id": "obs_041",
+      "city": "Fnideq",
+      "country": "Morocco",
+      "timestamp": "2025-11-06T08:50:00Z",
+      "tempC": 17.1,
+      "humidity": 68,
+      "conditions": "mist",
+      "wind": { "speed": 11.4, "direction": "N" }
+    },
+    {
+      "id": "obs_042",
+      "city": "Larache",
+      "country": "Morocco",
+      "timestamp": "2025-11-05T12:35:00Z",
+      "tempC": 18.9,
+      "humidity": 66,
+      "conditions": "clouds",
+      "wind": { "speed": 13.7, "direction": "W" }
+    },
+    {
+      "id": "obs_043",
+      "city": "Kelaat M'Gouna",
+      "country": "Morocco",
+      "timestamp": "2025-11-04T10:25:00Z",
+      "tempC": 21.0,
+      "humidity": 34,
+      "conditions": "clear",
+      "wind": { "speed": 6.1, "direction": "E" }
+    },
+    {
+      "id": "obs_044",
+      "city": "Ouezzane",
+      "country": "Morocco",
+      "timestamp": "2025-11-03T09:10:00Z",
+      "tempC": 16.1,
+      "humidity": 57,
+      "conditions": "clouds",
+      "wind": { "speed": 8.2, "direction": "NE" }
+    },
+    {
+      "id": "obs_045",
+      "city": "Bouskoura",
+      "country": "Morocco",
+      "timestamp": "2025-11-02T13:50:00Z",
+      "tempC": 21.8,
+      "humidity": 51,
+      "conditions": "clear",
+      "wind": { "speed": 9.4, "direction": "W" }
+    },
+    {
+      "id": "obs_046",
+      "city": "Mohammédia",
+      "country": "Morocco",
+      "timestamp": "2025-11-01T11:40:00Z",
+      "tempC": 20.9,
+      "humidity": 62,
+      "conditions": "clouds",
+      "wind": { "speed": 14.8, "direction": "W" }
+    },
+    {
+      "id": "obs_047",
+      "city": "Sidi Bennour",
+      "country": "Morocco",
+      "timestamp": "2025-11-09T10:50:00Z",
+      "tempC": 19.3,
+      "humidity": 45,
+      "conditions": "clear",
+      "wind": { "speed": 7.6, "direction": "SW" }
+    },
+    {
+      "id": "obs_048",
+      "city": "Rissani",
+      "country": "Morocco",
+      "timestamp": "2025-11-08T18:20:00Z",
+      "tempC": 29.0,
+      "humidity": 16,
+      "conditions": "clear",
+      "wind": { "speed": 10.2, "direction": "SE" }
+    },
+    {
+      "id": "obs_049",
+      "city": "Sefrou",
+      "country": "Morocco",
+      "timestamp": "2025-11-07T14:55:00Z",
+      "tempC": 17.5,
+      "humidity": 53,
+      "conditions": "clouds",
+      "wind": { "speed": 8.0, "direction": "E" }
+    },
+    {
+      "id": "obs_050",
+      "city": "Oulad Teima",
+      "country": "Morocco",
+      "timestamp": "2025-11-06T12:10:00Z",
+      "tempC": 25.2,
+      "humidity": 36,
+      "conditions": "clear",
+      "wind": { "speed": 6.3, "direction": "S" }
+    },
+    {
+      "id": "obs_051",
+      "city": "Asilah",
+      "country": "Morocco",
+      "timestamp": "2025-11-05T09:30:00Z",
+      "tempC": 18.2,
+      "humidity": 69,
+      "conditions": "clouds",
+      "wind": { "speed": 15.7, "direction": "W" }
+    },
+    {
+      "id": "obs_052",
+      "city": "Ouazzane",
+      "country": "Morocco",
+      "timestamp": "2025-11-04T07:55:00Z",
+      "tempC": 15.9,
+      "humidity": 60,
+      "conditions": "clouds",
+      "wind": { "speed": 9.0, "direction": "NE" }
+    },
+    {
+      "id": "obs_053",
+      "city": "Boujdour",
+      "country": "Morocco",
+      "timestamp": "2025-11-03T15:40:00Z",
+      "tempC": 23.8,
+      "humidity": 45,
+      "conditions": "clear",
+      "wind": { "speed": 18.9, "direction": "W" }
+    },
+    {
+      "id": "obs_054",
+      "city": "Zouagha-Moulay Yaâcoub",
+      "country": "Morocco",
+      "timestamp": "2025-11-02T10:00:00Z",
+      "tempC": 17.0,
+      "humidity": 48,
+      "conditions": "clear",
+      "wind": { "speed": 5.7, "direction": "N" }
+    },
+    {
+      "id": "obs_055",
+      "city": "Imouzzer Kandar",
+      "country": "Morocco",
+      "timestamp": "2025-11-01T08:15:00Z",
+      "tempC": 12.4,
+      "humidity": 74,
+      "conditions": "clouds",
+      "wind": { "speed": 6.0, "direction": "NE" }
+    },
+    {
+      "id": "obs_056",
+      "city": "Taourirt",
+      "country": "Morocco",
+      "timestamp": "2025-11-09T13:35:00Z",
+      "tempC": 20.6,
+      "humidity": 41,
+      "conditions": "clear",
+      "wind": { "speed": 8.6, "direction": "SE" }
+    },
+    {
+      "id": "obs_057",
+      "city": "M'diq",
+      "country": "Morocco",
+      "timestamp": "2025-11-08T09:20:00Z",
+      "tempC": 17.6,
+      "humidity": 67,
+      "conditions": "mist",
+      "wind": { "speed": 12.4, "direction": "N" }
+    },
+    {
+      "id": "obs_058",
+      "city": "Boulemane",
+      "country": "Morocco",
+      "timestamp": "2025-11-07T06:55:00Z",
+      "tempC": 9.4,
+      "humidity": 66,
+      "conditions": "clear",
+      "wind": { "speed": 4.2, "direction": "N" }
+    },
+    {
+      "id": "obs_059",
+      "city": "Midar",
+      "country": "Morocco",
+      "timestamp": "2025-11-06T14:45:00Z",
+      "tempC": 23.0,
+      "humidity": 39,
+      "conditions": "clear",
+      "wind": { "speed": 7.9, "direction": "S" }
+    },
+    {
+      "id": "obs_060",
+      "city": "TANGER-MED",
+      "country": "Morocco",
+      "timestamp": "2025-11-05T11:05:00Z",
+      "tempC": 17.8,
+      "humidity": 71,
+      "conditions": "clouds",
+      "wind": { "speed": 19.0, "direction": "NW" }
+    },
+    {
+      "id": "obs_061",
+      "city": "Azemmour",
+      "country": "Morocco",
+      "timestamp": "2025-11-04T12:25:00Z",
+      "tempC": 20.4,
+      "humidity": 59,
+      "conditions": "clouds",
+      "wind": { "speed": 10.5, "direction": "W" }
+    },
+    {
+      "id": "obs_062",
+      "city": "Khemisset",
+      "country": "Morocco",
+      "timestamp": "2025-11-03T07:35:00Z",
+      "tempC": 16.6,
+      "humidity": 50,
+      "conditions": "clear",
+      "wind": { "speed": 6.6, "direction": "N" }
+    },
+    {
+      "id": "obs_063",
+      "city": "Sidi Slimane",
+      "country": "Morocco",
+      "timestamp": "2025-11-02T09:15:00Z",
+      "tempC": 18.0,
+      "humidity": 47,
+      "conditions": "clear",
+      "wind": { "speed": 7.7, "direction": "W" }
+    },
+    {
+      "id": "obs_064",
+      "city": "Chefchaouen",
+      "country": "Morocco",
+      "timestamp": "2025-11-01T10:50:00Z",
+      "tempC": 15.8,
+      "humidity": 62,
+      "conditions": "clouds",
+      "wind": { "speed": 9.6, "direction": "NW" }
+    },
+    {
+      "id": "obs_065",
+      "city": "Beni Ansar",
+      "country": "Morocco",
+      "timestamp": "2025-11-09T11:10:00Z",
+      "tempC": 18.3,
+      "humidity": 64,
+      "conditions": "clouds",
+      "wind": { "speed": 13.9, "direction": "NE" }
+    },
+    {
+      "id": "obs_066",
+      "city": "Jorf El Mellah",
+      "country": "Morocco",
+      "timestamp": "2025-11-08T16:30:00Z",
+      "tempC": 22.0,
+      "humidity": 33,
+      "conditions": "clear",
+      "wind": { "speed": 6.9, "direction": "SE" }
+    },
+    {
+      "id": "obs_067",
+      "city": "Sidi Yahya El Gharb",
+      "country": "Morocco",
+      "timestamp": "2025-11-07T13:15:00Z",
+      "tempC": 19.7,
+      "humidity": 44,
+      "conditions": "clear",
+      "wind": { "speed": 8.1, "direction": "W" }
+    },
+    {
+      "id": "obs_068",
+      "city": "Fnideq",
+      "country": "Morocco",
+      "timestamp": "2025-11-06T06:10:00Z",
+      "tempC": 16.8,
+      "humidity": 70,
+      "conditions": "mist",
+      "wind": { "speed": 10.8, "direction": "N" }
+    },
+    {
+      "id": "obs_069",
+      "city": "Bouznika",
+      "country": "Morocco",
+      "timestamp": "2025-11-05T14:20:00Z",
+      "tempC": 21.9,
+      "humidity": 58,
+      "conditions": "clouds",
+      "wind": { "speed": 12.3, "direction": "W" }
+    },
+    {
+      "id": "obs_070",
+      "city": "M'Diq-Fnideq",
+      "country": "Morocco",
+      "timestamp": "2025-11-04T08:05:00Z",
+      "tempC": 17.4,
+      "humidity": 66,
+      "conditions": "clouds",
+      "wind": { "speed": 13.2, "direction": "N" }
+    },
+    {
+      "id": "obs_071",
+      "city": "Skhirat",
+      "country": "Morocco",
+      "timestamp": "2025-11-03T12:45:00Z",
+      "tempC": 20.2,
+      "humidity": 61,
+      "conditions": "clouds",
+      "wind": { "speed": 11.1, "direction": "W" }
+    },
+    {
+      "id": "obs_072",
+      "city": "Tahla",
+      "country": "Morocco",
+      "timestamp": "2025-11-02T05:50:00Z",
+      "tempC": 13.2,
+      "humidity": 65,
+      "conditions": "clear",
+      "wind": { "speed": 4.8, "direction": "N" }
+    },
+    {
+      "id": "obs_073",
+      "city": "Sidi Ifni",
+      "country": "Morocco",
+      "timestamp": "2025-11-01T13:00:00Z",
+      "tempC": 22.8,
+      "humidity": 56,
+      "conditions": "clouds",
+      "wind": { "speed": 16.7, "direction": "W" }
+    },
+    {
+      "id": "obs_074",
+      "city": "Tahla",
+      "country": "Morocco",
+      "timestamp": "2025-11-09T07:15:00Z",
+      "tempC": 13.9,
+      "humidity": 64,
+      "conditions": "clear",
+      "wind": { "speed": 5.1, "direction": "NE" }
+    },
+    {
+      "id": "obs_075",
+      "city": "Guelmim",
+      "country": "Morocco",
+      "timestamp": "2025-11-08T19:40:00Z",
+      "tempC": 25.8,
+      "humidity": 30,
+      "conditions": "clear",
+      "wind": { "speed": 11.5, "direction": "S" }
+    },
+    {
+      "id": "obs_076",
+      "city": "Ouarzazate",
+      "country": "Morocco",
+      "timestamp": "2025-11-07T18:10:00Z",
+      "tempC": 24.3,
+      "humidity": 21,
+      "conditions": "clear",
+      "wind": { "speed": 9.0, "direction": "E" }
+    },
+    {
+      "id": "obs_077",
+      "city": "Zagora",
+      "country": "Morocco",
+      "timestamp": "2025-11-06T20:25:00Z",
+      "tempC": 27.5,
+      "humidity": 19,
+      "conditions": "clear",
+      "wind": { "speed": 8.2, "direction": "SE" }
+    },
+    {
+      "id": "obs_078",
+      "city": "Errachidia",
+      "country": "Morocco",
+      "timestamp": "2025-11-05T19:50:00Z",
+      "tempC": 23.7,
+      "humidity": 24,
+      "conditions": "clear",
+      "wind": { "speed": 10.1, "direction": "S" }
+    },
+    {
+      "id": "obs_079",
+      "city": "Laayoune",
+      "country": "Morocco",
+      "timestamp": "2025-11-04T15:30:00Z",
+      "tempC": 26.4,
+      "humidity": 35,
+      "conditions": "clear",
+      "wind": { "speed": 18.3, "direction": "W" }
+    },
+    {
+      "id": "obs_080",
+      "city": "Dakhla",
+      "country": "Morocco",
+      "timestamp": "2025-11-03T14:40:00Z",
+      "tempC": 25.1,
+      "humidity": 48,
+      "conditions": "clear",
+      "wind": { "speed": 20.0, "direction": "NW" }
+    },
+    {
+      "id": "obs_081",
+      "city": "Safaa",
+      "country": "Morocco",
+      "timestamp": "2025-11-02T11:55:00Z",
+      "tempC": 22.3,
+      "humidity": 43,
+      "conditions": "clear",
+      "wind": { "speed": 7.0, "direction": "SW" }
+    },
+    {
+      "id": "obs_082",
+      "city": "Safi",
+      "country": "Morocco",
+      "timestamp": "2025-11-01T16:30:00Z",
+      "tempC": 21.1,
+      "humidity": 61,
+      "conditions": "clouds",
+      "wind": { "speed": 10.8, "direction": "W" }
+    },
+    {
+      "id": "obs_083",
+      "city": "El Hajeb",
+      "country": "Morocco",
+      "timestamp": "2025-11-09T09:55:00Z",
+      "tempC": 18.6,
+      "humidity": 50,
+      "conditions": "clouds",
+      "wind": { "speed": 6.4, "direction": "NE" }
+    },
+    {
+      "id": "obs_084",
+      "city": "Tanger",
+      "country": "Morocco",
+      "timestamp": "2025-11-08T10:40:00Z",
+      "tempC": 17.9,
+      "humidity": 73,
+      "conditions": "clouds",
+      "wind": { "speed": 16.8, "direction": "NW" }
+    },
+    {
+      "id": "obs_085",
+      "city": "Casablanca",
+      "country": "Morocco",
+      "timestamp": "2025-11-07T12:20:00Z",
+      "tempC": 20.8,
+      "humidity": 66,
+      "conditions": "clouds",
+      "wind": { "speed": 17.5, "direction": "W" }
+    },
+    {
+      "id": "obs_086",
+      "city": "Rabat",
+      "country": "Morocco",
+      "timestamp": "2025-11-06T11:10:00Z",
+      "tempC": 19.0,
+      "humidity": 68,
+      "conditions": "clouds",
+      "wind": { "speed": 12.6, "direction": "W" }
+    },
+    {
+      "id": "obs_087",
+      "city": "Marrakech",
+      "country": "Morocco",
+      "timestamp": "2025-11-05T17:05:00Z",
+      "tempC": 27.3,
+      "humidity": 30,
+      "conditions": "clear",
+      "wind": { "speed": 7.2, "direction": "SE" }
+    },
+    {
+      "id": "obs_088",
+      "city": "Fes",
+      "country": "Morocco",
+      "timestamp": "2025-11-04T13:55:00Z",
+      "tempC": 18.3,
+      "humidity": 56,
+      "conditions": "clouds",
+      "wind": { "speed": 9.8, "direction": "NE" }
+    },
+    {
+      "id": "obs_089",
+      "city": "Tangier",
+      "country": "Morocco",
+      "timestamp": "2025-11-03T07:00:00Z",
+      "tempC": 16.9,
+      "humidity": 74,
+      "conditions": "mist",
+      "wind": { "speed": 15.2, "direction": "NW" }
+    },
+    {
+      "id": "obs_090",
+      "city": "Agadir",
+      "country": "Morocco",
+      "timestamp": "2025-11-02T13:40:00Z",
+      "tempC": 23.9,
+      "humidity": 55,
+      "conditions": "clear",
+      "wind": { "speed": 21.7, "direction": "W" }
+    },
+    {
+      "id": "obs_091",
+      "city": "Meknes",
+      "country": "Morocco",
+      "timestamp": "2025-11-01T15:20:00Z",
+      "tempC": 18.1,
+      "humidity": 50,
+      "conditions": "clear",
+      "wind": { "speed": 8.7, "direction": "E" }
+    },
+    {
+      "id": "obs_092",
+      "city": "Oujda",
+      "country": "Morocco",
+      "timestamp": "2025-11-09T06:35:00Z",
+      "tempC": 13.7,
+      "humidity": 46,
+      "conditions": "clear",
+      "wind": { "speed": 5.9, "direction": "S" }
+    },
+    {
+      "id": "obs_093",
+      "city": "Kenitra",
+      "country": "Morocco",
+      "timestamp": "2025-11-08T06:05:00Z",
+      "tempC": 18.2,
+      "humidity": 65,
+      "conditions": "clouds",
+      "wind": { "speed": 11.9, "direction": "W" }
+    },
+    {
+      "id": "obs_094",
+      "city": "Tetouan",
+      "country": "Morocco",
+      "timestamp": "2025-11-07T07:50:00Z",
+      "tempC": 16.0,
+      "humidity": 71,
+      "conditions": "clouds",
+      "wind": { "speed": 12.7, "direction": "NW" }
+    },
+    {
+      "id": "obs_095",
+      "city": "Essaouira",
+      "country": "Morocco",
+      "timestamp": "2025-11-06T14:05:00Z",
+      "tempC": 20.6,
+      "humidity": 63,
+      "conditions": "clouds",
+      "wind": { "speed": 23.4, "direction": "W" }
+    },
+    {
+      "id": "obs_096",
+      "city": "Safi",
+      "country": "Morocco",
+      "timestamp": "2025-11-05T10:40:00Z",
+      "tempC": 20.9,
+      "humidity": 59,
+      "conditions": "clear",
+      "wind": { "speed": 11.2, "direction": "SW" }
+    },
+    {
+      "id": "obs_097",
+      "city": "El Jadida",
+      "country": "Morocco",
+      "timestamp": "2025-11-04T09:25:00Z",
+      "tempC": 19.8,
+      "humidity": 65,
+      "conditions": "clouds",
+      "wind": { "speed": 14.3, "direction": "W" }
+    },
+    {
+      "id": "obs_098",
+      "city": "Nador",
+      "country": "Morocco",
+      "timestamp": "2025-11-03T11:55:00Z",
+      "tempC": 17.6,
+      "humidity": 60,
+      "conditions": "clouds",
+      "wind": { "speed": 12.0, "direction": "NE" }
+    },
+    {
+      "id": "obs_099",
+      "city": "Khenifra",
+      "country": "Morocco",
+      "timestamp": "2025-11-02T05:05:00Z",
+      "tempC": 10.9,
+      "humidity": 59,
+      "conditions": "clear",
+      "wind": { "speed": 4.5, "direction": "N" }
+    },
+    {
+      "id": "obs_100",
+      "city": "Khouribga",
+      "country": "Morocco",
+      "timestamp": "2025-11-01T18:15:00Z",
+      "tempC": 18.7,
+      "humidity": 41,
+      "conditions": "clear",
+      "wind": { "speed": 7.4, "direction": "E" }
+    }
+  ]
+}
