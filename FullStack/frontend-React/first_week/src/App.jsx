@@ -1,6 +1,6 @@
-import { useState } from "react";
-import jobInTechLogo from "/jobInTech.png";
-import laptopBg from "./assets/laptopBg.png";
+// import { useState } from "react";
+// import jobInTechLogo from "/jobInTech.png";
+// import laptopBg from "./assets/laptopBg.png";
 import Welcome from "./jour1/components/Welcome";
 import "./App.css";
 import Header from "./jour1/components/Header";
@@ -11,16 +11,28 @@ import Bonjour from "./jour2/exercices/Bonjour";
 import Notifications from "./jour2/exercices/Notifications";
 import Profil from "./jour2/exercices/Profil";
 import TodoLst from "./jour2/tasks/todoLst";
+import Counter from "./jour3/Counter";
+import ClickCounter from "./jour3/ClickCounter";
+import Timer from "./jour3/Timer";
+import Theme from "./jour3/Theme";
+import Panier from "./jour3/Panier";
 
 function App() {
   // const [count, setCount] = useState(0);
 
   return (
     <div id="app">
-      {/* ===================   Jour 2  ===================  */}
+      {/* ------------------   Jour 3  ----------------------  */}
+      <Counter />
+      <ClickCounter />
+      <Timer/>
+      <Theme/>
+      <Panier/>
+      {/* ------------------   Jour 2  ----------------------  */}
       <div>
         <UsersList />
       </div>
+
       {/* ===================   liste de tâches  ===================  */}
       <div>
         <TodoLst />
