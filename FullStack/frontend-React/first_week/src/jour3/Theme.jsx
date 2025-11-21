@@ -1,7 +1,8 @@
-import useLocalStorage from "./use-local-storage"
+import useLocalStorage from "./use-local-storage";
+
 
 const Theme = () => {
-    const [theme , setTheme] = useLocalStorage("them","Light");
+    const [theme , setTheme] = useLocalStorage("theme","Light");
   return (
     <div style={{margin: 'auto'}}>
         <select className="button" value={theme} onChange={(e)=>setTheme(e.target.value)}>

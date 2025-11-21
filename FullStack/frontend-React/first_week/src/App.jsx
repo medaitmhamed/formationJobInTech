@@ -16,12 +16,23 @@ import ClickCounter from "./jour3/ClickCounter";
 import Timer from "./jour3/Timer";
 import Theme from "./jour3/Theme";
 import Panier from "./jour3/Panier";
+import ControlledInput from "./jour4/ControlledInput";
+import ValidateEmpty from "./jour4/validateEmpty";
+import UseRefCompo from "./jour4/UseRefCompo";
+import PreviouceValue from "./jour4/PreviouceValue";
+import UserDirectory from "./mini-projet - Annuaire dutilisateurs/UserDirectory";
 
 function App() {
   // const [count, setCount] = useState(0);
 
   return (
     <div id="app">
+      {/* ------------------   Jour 4  ----------------------  */}
+      <UserDirectory />
+      <ControlledInput />
+      <ValidateEmpty />
+      <UseRefCompo />
+      <PreviouceValue />
       {/* ------------------   Jour 3  ----------------------  */}
       <Counter />
       <ClickCounter />

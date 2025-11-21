@@ -285,3 +285,48 @@ section.panier{
   padding: 1em 2em;
   background-color: #283d53;
 }
+/* -------------------- Jour 4 -------------------- */
+.controll_input, .validate_empty, .use_ref {
+  width: 100%;
+  padding: 1em;
+  border-radius: 10px;
+  background-color: rgb(53, 167, 233);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 1em;
+  margin: 1em auto;
+}
+.validate_empty, .use_ref {
+  background-color: #fff;
+}
+.validate_empty form, .use_ref form{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 0.5em;
+}
+
+.controll_input input {
+  padding: 0.5em 1em;
+  border-radius: 0.5em;
+  border: none;
+}
+
+.btn-controller {
+  padding: 0.5em 1em;
+  border-radius: 0.5em;
+  border: none;
+  background-color: #1a1a1a;
+  color: #fff;
+  cursor: pointer;
+  transition: border-color 0.25s;
+}
+
+.input-controller {
+  display: inline-block;
+  padding: 0.5em 1em;
+  border-radius: 0.5em;
+  border: none;
+  margin: 0.5em;
+}
