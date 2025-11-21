@@ -19,7 +19,6 @@ import Panier from "./jour3/Panier";
 import ControlledInput from "./jour4/ControlledInput";
 import ValidateEmpty from "./jour4/validateEmpty";
 import UseRefCompo from "./jour4/UseRefCompo";
-import PreviouceValue from "./jour4/PreviouceValue";
 import UserDirectory from "./mini-projet - Annuaire dutilisateurs/UserDirectory";
 
 function App() {
@@ -32,7 +31,6 @@ function App() {
       <ControlledInput />
       <ValidateEmpty />
       <UseRefCompo />
-      <PreviouceValue />
       {/* ------------------   Jour 3  ----------------------  */}
       <Counter />
       <ClickCounter />

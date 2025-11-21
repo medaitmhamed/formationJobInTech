@@ -1,4 +1,4 @@
-import { useState } from "react";
+import { useRef, useState } from "react";
 import TodoItem from "./todoItem";
 
 const TodoLst = () => {
@@ -10,6 +10,7 @@ const TodoLst = () => {
   const [tasks, setTasks] = useState(INITIAL_TACHES);
   const [filter, setFilter] = useState("all");
   const [dark, setDark] = useState(false);
+  const taskRef = useRef(null);
 
   const filterTasks = 
     filter === "all"
@@ -25,6 +26,14 @@ const TodoLst = () => {
       )
     );
   };
+  const addTodo = (e, title) => {
+    e.preventDefault();
+    setTasks([...tasks, { id: tasks.length + 1, title, fait: false }]);
+    taskRef.current.value = "";
+  };
+  const deleteTodo = (id) => {
+    setTasks(tasks.filter((todo) => todo.id !== id));
+  };
   return (
     <div className={`todo-lst-container ${dark ? "dark" : ""}`}>
       <h1 className="todo-lst-title">Liste des tâches</h1>
@@ -36,13 +45,19 @@ const TodoLst = () => {
             Non complétées
           </button>
         </div>
-        <button className="button theme-btn" onClick={() => setDark(!dark)}>
+        <button className="mb-1 py-1 px-6 bg-gray-500 text-white rounded-md cursor-pointer" onClick={() => setDark(!dark)}>
           {dark ? "Light" : "Dark"}
         </button>
       </div>
+      <div className="w-full py-5 px-10 ">
+        <form action="" className="flex gap-4">
+          <input ref={taskRef} className="w-full py-2 px-4 border border-gray-300 rounded-md" type="text" placeholder="Ajouter une tâche" />
+          <button className="py-2 px-4 bg-blue-500 text-white rounded-md" onClick={(e) => addTodo(e,taskRef.current.value)}>Ajouter</button>
+        </form>
+      </div>
       <div className="todo-lst">
         {filterTasks.map((todo) => (
-          <TodoItem todo={todo} filter={filter} toggleTodoState={toggleTodoState} />
+          <TodoItem todo={todo} filter={filter} toggleTodoState={toggleTodoState} deleteTodo={deleteTodo} />
         ))}
       </div>
     </div>
